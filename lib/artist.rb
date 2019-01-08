@@ -1,4 +1,4 @@
-# 1/8/19  MUST UPDATE from artist-song modules lab
+# 1/8/19  MUST UPDATE from artist-song modules lab   
 require 'pry'  
 class Artist
   attr_accessor :name
